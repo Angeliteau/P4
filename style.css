@@ -7,7 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-
+.col-sm-6 img {
+    height: 100%;
+    width: 100%;
+}
 
 a,
 button {
