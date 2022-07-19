@@ -310,7 +310,7 @@ a:hover {
 }
 
 .navbar-brand img {
-    height: 200px;
+  
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -391,6 +391,7 @@ a:hover {
     }
     .navbar-header img {
         height: 40px;
+        width: 100%;
     }
     .nav-center .navbar-header,
     .nav-center .navbar-brand,
@@ -823,7 +824,7 @@ h4 {
 
 .col-sm-6 img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .btn-atomic-tangerine {
