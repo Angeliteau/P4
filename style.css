@@ -7,19 +7,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.col-sm-6 img {
-    height: 100%;
-    width: 100%;
-}
 .navbar-brand img {
     height: 40px;
     width: 100%;
 }
 
-.col-sm-12 img {
-    width: 130px;
-    height: 130px;
-}
+
 
 a,
 button {
