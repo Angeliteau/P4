@@ -11,9 +11,14 @@ body {
     height: 100%;
     width: 100%;
 }
-.navbar-header img {
-    height: 100%;
+.navbar-brand img {
+    height: 40px;
     width: 100%;
+}
+
+.col-sm-12 img {
+    width: 130px;
+    height: 130px;
 }
 
 a,
@@ -313,10 +318,7 @@ a:hover {
     line-height: 44px;
 }
 
-.navbar-header img {
-    height: 40px;
-    width: 100%;
-}
+
 
 .nav-center .navbar-brand img {
     margin: 0;
